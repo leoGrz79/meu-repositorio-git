@@ -1,2 +1,2 @@
-# meu-repositorio-git
+# Meu repositório de exercícios
 My personal repository
